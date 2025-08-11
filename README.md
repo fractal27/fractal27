@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 
 ## 🚀 About Me
 
-- 💻 Software developer passionate about code, open source, and automation.
+- 💻 Software enthusiast passionate about code, open source, and automation.
 - 🌱 Always learning and tinkering with new technologies.
 - 🔭 Currently working on personal projects
 
